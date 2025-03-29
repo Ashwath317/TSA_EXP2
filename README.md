@@ -1,6 +1,8 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:29.03.25
+Date:29.03.25 
+
 reg:212224220012
+
 name:Ashwath p 
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
